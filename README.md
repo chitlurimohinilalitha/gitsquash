@@ -1,0 +1,2 @@
+# gitsquash
+new repo
